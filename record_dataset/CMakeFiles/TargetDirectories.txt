@@ -1,0 +1,4 @@
+/home/esillen/test/record_dataset/CMakeFiles/rgbd-grabber.dir
+/home/esillen/test/record_dataset/CMakeFiles/UEyeCalibration.dir
+/home/esillen/test/record_dataset/CMakeFiles/UEyeCapture.dir
+/home/esillen/test/record_dataset/CMakeFiles/rgbd-grabber-ueye.dir
