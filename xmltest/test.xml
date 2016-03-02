@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<number_of_cameras>2</number_of_cameras>
+<calibrationDate>"Wed Feb 24 14:35:56 2016&#x0a;"</calibrationDate>
+<camera_intrinsics_1 type_id="opencv-matrix">
+  <rows>10</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    6.1303899999999999e+02 6.1303899999999999e+02 3.7550000000000000e+02
+    2.3950000000000000e+02 -3.7190768207085390e-01
+    2.3296805519991015e-01 0. 0. -1.1351747838880406e-01 30.</data></camera_intrinsics_1>
+<camera_intrinsics_2 type_id="opencv-matrix">
+  <rows>10</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    6.1303899999999999e+02 6.1303899999999999e+02 3.7550000000000000e+02
+    2.3950000000000000e+02 -3.7190768207085390e-01
+    2.3296805519991015e-01 0. 0. -1.1351747838880406e-01 30.</data></camera_intrinsics_2>
+<camera_intrinsics_3 type_id="opencv-matrix">
+  <rows>10</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    6.1303899999999999e+02 6.1303899999999999e+02 3.7550000000000000e+02
+    2.3950000000000000e+02 -3.7190768207085390e-01
+    2.3296805519991015e-01 0. 0. -1.1351747838880406e-01 30.</data></camera_intrinsics_3>
+<camera_intrinsics_4 type_id="opencv-matrix">
+  <rows>10</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    6.1303899999999999e+02 6.1303899999999999e+02 3.7550000000000000e+02
+    2.3950000000000000e+02 -3.7190768207085390e-01
+    2.3296805519991015e-01 0. 0. -1.1351747838880406e-01 30.</data></camera_intrinsics_4>
+<camera_extrinsics_1 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    2.0000000000000001e-01 0. 5.0000000000000003e-02 0. 0. 0.</data></camera_extrinsics_1>
+<camera_extrinsics_2 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    2.0000000000000001e-01 0. -5.0000000000000003e-02 90. 0. 0.</data></camera_extrinsics_2>
+<camera_extrinsics_3 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    2.0000000000000001e-01 0. 5.0000000000000003e-02 0. 0. 0.</data></camera_extrinsics_3>
+<camera_extrinsics_4 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    2.0000000000000001e-01 0. 5.0000000000000003e-02 0. 0. 0.</data></camera_extrinsics_4>
+</opencv_storage>

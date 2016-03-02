@@ -1,0 +1,2 @@
+/home/esillen/test/xmltest/CMakeFiles/storefile.dir
+/home/esillen/test/xmltest/CMakeFiles/fileread.dir

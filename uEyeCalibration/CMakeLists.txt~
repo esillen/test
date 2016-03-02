@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 2.8)
+project( DisplayImage )
+find_package( OpenCV REQUIRED )
+
+
+add_executable(calibration calibration.cpp )
+target_link_libraries(calibration ${OpenCV_LIBS} )
+
+
+add_executable(storeimage storeimage.cpp )
+target_link_libraries(storeimage ${OpenCV_LIBS} )
+
